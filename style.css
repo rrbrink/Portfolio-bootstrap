@@ -1,0 +1,47 @@
+#footerhome {
+    background-color: #e5e5e6;
+    margin: 0 9% 0 9%;
+    text-align: center;
+    padding: 5px 0 20px 0;
+    border-radius: 5px;
+    font-size: 70%;
+
+}
+.navbar {
+    background-color: #4286f5;
+}
+#bt1 {
+    background-color: #4286f5;
+    margin-top: 30px;
+}
+#homenav {
+    background-color: #4286f5;
+}
+#footercontact {
+    background-color: #e5e5e6;
+    margin: 25% 9% 0 9%;
+    text-align: center;
+    padding: 5px 0 20px 0;
+    border-radius: 5px;
+    font-size: 70%;
+    
+    
+}
+#contacth2 {
+    text-align: center;
+    border-bottom: 1px solid #b0b0b1;
+    margin-bottom: 10px;
+    color: gray;
+}
+#row2 {
+    margin: 40px 0 0 0;
+}
+#footerportfolio {
+    background-color: #e5e5e6;
+    margin: 35% 9% 0 9%;
+    text-align: center;
+    padding: 10px 0 20px 0;
+    border-radius: 5px;
+    font-size: 70%;
+    
+}
